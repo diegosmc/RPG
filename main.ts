@@ -1,4 +1,4 @@
-import { Cachorro } from "./cachorro"; // Importando Cachorro do outro TS
+import { Cachorro } from "./animalDog"; // Importando Cachorro do outro TS
 import prompt from 'prompt-sync';
 
 let bob: Cachorro = new Cachorro("Bob", 100, 50, 70,); // Criando o new objeto
